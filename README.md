@@ -24,8 +24,8 @@ To set up the Rune-Fractal Launchpad on your local machine, please follow these 
 2. Clone the repository:
 
     ```bash
-    git clone https://github.com/rizzolib/rune-fractal-launchpad.git
-    cd rune-fractal-launchpad
+    git clone https://github.com/bitman310/fractal-rune-launchpad.git
+    cd fractal-rune-launchpad
     ```
 
 3. Install the necessary dependencies:
@@ -55,7 +55,7 @@ This will launch the server, and you can interact with the API endpoints as desc
 ## Project Structure
 
 ```plaintext
-rune-fractal-launchpad/
+fractal-rune-launchpad/
 │
 ├── src/
 │   ├── controllers/
@@ -178,10 +178,10 @@ I have provided the project structure and rune token deploy, mint, tranfer code 
 ## Contact Info
 If you need more technical support and development inquires, you can contact below.
 
-Telegram: [@dwlee918](https://t.me/@dwlee918)
+Telegram: [@diasibt](https://t.me/@diasibt)
 
-X: [@derricklee918](https://x.com/derricklee918)
+X: [@DiasIbt101](https://x.com/DiasIbt101)
 
-Discord: [@muratcanbey.](https://discordapp.com/users/348484668448047107)
+Discord: [@dias_ishbulatov](https://discordapp.com/users/1213745904599961631)
 
 thanks
