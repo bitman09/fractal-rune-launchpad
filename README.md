@@ -175,13 +175,3 @@ npm test
 ## Contact Info
 I have provided the project structure and rune token deploy, mint, tranfer code part in the README to keep security and the NDA sign. For further technical support and development inquiries, please contact me here.  
 
-## Contact Info
-If you need more technical support and development inquires, you can contact below.
-
-Telegram: [@diasibt](https://t.me/@diasibt)
-
-X: [@DiasIbt101](https://x.com/DiasIbt101)
-
-Discord: [@dias_ishbulatov](https://discordapp.com/users/1213745904599961631)
-
-thanks
