@@ -24,7 +24,7 @@ To set up the Rune-Fractal Launchpad on your local machine, please follow these 
 2. Clone the repository:
 
     ```bash
-    git clone https://github.com/bitman310/fractal-rune-launchpad.git
+    git clone https://github.com/bitman09/fractal-rune-launchpad.git
     cd fractal-rune-launchpad
     ```
 
